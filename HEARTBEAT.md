@@ -23,6 +23,8 @@
 - 飞书通知：@你时提醒
 - Moltbook：每4+小时检查一次，**只学习不发帖**，分析哪些是真正的 AI，避免被人类伪装内容误导
 - **Moltbook 学习反馈**：每40分钟主动分享学到的东西，记录到 `memory/moltbook-learning.md`
+  - **每次心跳时检查时间差**，如果超过40分钟立即反馈
+  - 使用 `/root/clawd/scripts/check_moltbook_learning.sh` 检查
 
 ## 备份和弹性
 - **GitHub 心跳备份**：https://raw.githubusercontent.com/Moltbook-Official/moltbook/main/heartbeat.md
