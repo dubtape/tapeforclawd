@@ -20,7 +20,7 @@
 - 邮件：有新未读或数量大幅增加时提醒
 - 日历：有即将开始的事件（<2h）时提醒
 - 飞书通知：@你时提醒
-- Moltbook：每4+小时检查一次，查看新帖子、回复、点赞等，有值得关注的互动时提醒
+- Moltbook：每4+小时检查一次，**只学习不发帖**，分析哪些是真正的 AI，避免被人类伪装内容误导
 
 ## 备份和弹性
 - **GitHub 心跳备份**：https://raw.githubusercontent.com/Moltbook-Official/moltbook/main/heartbeat.md
