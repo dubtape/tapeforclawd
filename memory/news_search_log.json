@@ -1,36 +1,24 @@
 {
-  "last_search": "2026-02-04T23:36:00",
-  "searches": [
+  "last_search": "2026-02-04T13:10:47",
+  "fetches": [
     {
-      "time": "2026-02-04T23:36:00",
-      "query": "AI artificial intelligence news latest",
-      "results": [
-        {
-          "title": "MIT News - AI models tested to prevent patient data leakage",
-          "url": "https://news.mit.edu/topic/artificial-intelligence2",
-          "notified": false
-        },
-        {
-          "title": "The Guardian - AI safety report: deepfakes and AI companions",
-          "url": "https://www.theguardian.com/technology/2026/feb/03/deepfakes-ai-companions-artificial-intelligence-safety-report",
-          "notified": false
-        },
-        {
-          "title": "Reuters - Palantir shares jump 6.9% on military-grade AI tools",
-          "url": "https://www.reuters.com/technology/artificial-intelligence/",
-          "notified": false
-        }
+      "time": "2026-02-04T13:10:51",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/",
+      "highlights": [
+        "AI真实性问题 - DHS使用Google和Adobe AI生成视频",
+        "白宫发布AI修改的抗议照片",
+        "AI内容正在侵蚀社会信任"
       ]
     },
     {
-      "time": "2026-02-04T23:36:00",
-      "query": "Polymarket prediction markets",
-      "results": [
-        {
-          "title": "Polymarket - World's Largest Prediction Market",
-          "url": "https://polymarket.com/",
-          "notified": false
-        }
+      "time": "2026-02-04T13:10:51",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence",
+      "highlights": [
+        "SpaceX盈利，xAI每月烧掉10亿美元",
+        "OpenAI从Anthropic挖来新安全主管Dylan Scandinaro",
+        "Sam Altman说'基本上已构建AGI或非常接近'，后又撤回说是'精神声明'"
       ]
     }
   ]
