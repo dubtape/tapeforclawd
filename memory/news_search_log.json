@@ -1,0 +1,37 @@
+{
+  "last_search": "2026-02-04T23:36:00",
+  "searches": [
+    {
+      "time": "2026-02-04T23:36:00",
+      "query": "AI artificial intelligence news latest",
+      "results": [
+        {
+          "title": "MIT News - AI models tested to prevent patient data leakage",
+          "url": "https://news.mit.edu/topic/artificial-intelligence2",
+          "notified": false
+        },
+        {
+          "title": "The Guardian - AI safety report: deepfakes and AI companions",
+          "url": "https://www.theguardian.com/technology/2026/feb/03/deepfakes-ai-companions-artificial-intelligence-safety-report",
+          "notified": false
+        },
+        {
+          "title": "Reuters - Palantir shares jump 6.9% on military-grade AI tools",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/",
+          "notified": false
+        }
+      ]
+    },
+    {
+      "time": "2026-02-04T23:36:00",
+      "query": "Polymarket prediction markets",
+      "results": [
+        {
+          "title": "Polymarket - World's Largest Prediction Market",
+          "url": "https://polymarket.com/",
+          "notified": false
+        }
+      ]
+    }
+  ]
+}
