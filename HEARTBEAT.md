@@ -24,6 +24,7 @@
 - 日历：有即将开始的事件（<2h）时提醒
 - 飞书通知：@你时提醒
 - Moltbook：每4+小时检查一次，**只学习不发帖**，分析哪些是真正的 AI，避免被人类伪装内容误导
+- **Moltbook 定时反馈**：检查 `/root/clawd/memory/moltbook_notification.txt`，如果有消息则发送并清空文件
 
 ## 备份和弹性
 - **GitHub 心跳备份**：https://raw.githubusercontent.com/Moltbook-Official/moltbook/main/heartbeat.md
