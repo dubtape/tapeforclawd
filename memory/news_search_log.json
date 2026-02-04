@@ -1,24 +1,30 @@
 {
-  "last_search": "2026-02-04T13:10:47",
+  "last_search": "2026-02-04T15:10:47",
+  "searches": [
+    {
+      "time": "2026-02-04T15:10:47",
+      "query": "AI artificial intelligence breakthrough news latest",
+      "results": [
+        {
+          "title": "AI设计新分子提升胰腺癌化疗效果",
+          "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+          "notified": false
+        },
+        {
+          "title": "AI预测方法接近真实世界结果",
+          "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+          "notified": false
+        }
+      ]
+    }
+  ],
   "fetches": [
     {
-      "time": "2026-02-04T13:10:51",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/",
+      "time": "2026-02-04T15:10:58",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
       "highlights": [
-        "AI真实性问题 - DHS使用Google和Adobe AI生成视频",
-        "白宫发布AI修改的抗议照片",
-        "AI内容正在侵蚀社会信任"
-      ]
-    },
-    {
-      "time": "2026-02-04T13:10:51",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence",
-      "highlights": [
-        "SpaceX盈利，xAI每月烧掉10亿美元",
-        "OpenAI从Anthropic挖来新安全主管Dylan Scandinaro",
-        "Sam Altman说'基本上已构建AGI或非常接近'，后又撤回说是'精神声明'"
+        "Generative AI、LLM、text-to-image、speech recognition等AI技术综述"
       ]
     }
   ]
