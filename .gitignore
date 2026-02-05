@@ -1,0 +1,40 @@
+# 敏感配置文件
+.env
+*.key
+*.pem
+credentials/
+.secrets/
+
+# Clawdbot 配置
+.clawdbot/
+!/.clawdbot/memory
+
+# Node modules
+node_modules/
+package-lock.json
+
+# 日志
+logs/
+*.log
+
+# 临时文件
+*.tmp
+.cache/
+.pytest_cache/
+
+# 媒体和大文件
+canvas/
+media/
+screenshots/
+
+# 备份文件
+backups/
+*.bak
+*.backup
+
+# IDE
+.vscode/
+.idea/
+*.swp
+scripts/__pycache__/
+skills/office-skills/
